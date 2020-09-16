@@ -3,7 +3,7 @@
 
 ### Как воспользоваться коннекторами:
 
-1) Скачайте архив с файлами: https://github.com/morinad/all_connectors_pq/
+1) Скачайте архив с файлами: https://github.com/morinad/all_connectors_pq/blob/master/All.rar
 
 2) Разархивируйте файлы .mez в папку C:\Users\USERNAME\Documents\Power BI Desktop\Custom Connectors, подставив USERNAME своего компьютера.
 
